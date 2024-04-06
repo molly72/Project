@@ -1,6 +1,7 @@
-Python & Machine Learning application
+<h2>Python & Machine Learning application</h2>
 
-Topic: Bitcoin Price Prediction Analysis using LSTM and Linear Regression
+<h2>Topic: Bitcoin Price Prediction Analysis using LSTM and Linear Regression</h2>
+
 
 Problem statement: How can machine learning techniques, specifically LSTM and Linear Regression algorithms, be effectively utilised to predict Bitcoin prices amidst the high volatility and dynamic nature of the cryptocurrency market?
 
@@ -8,6 +9,6 @@ Description: This project aims to develop and evaluate a predictive model for Bi
 
 Impact Results: The study demonstrates that LSTM outperforms Linear Regression in forecasting Bitcoin prices, suggesting its potential efficacy in aiding investment decisions within the cryptocurrency market.
 
-Dataset size: 541909 customers'record, Complexity: Medium
+Dataset source: Coinbase API 
 
-Libraries: Pandas. NumPy, Matplotlib, Seaborn, Sklearn
+Libraries: Pandas. NumPy, Matplotlib, Seaborn, Sklearn, Tensorflow
