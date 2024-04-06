@@ -1,11 +1,11 @@
 Python & Machine Learning application
 
-Topic: Segmenting Customers via K-means Clustering: a machine learning application in online retail.
-Problem statement: How can a business automatically classify customers into different segments?
+Topic: Bitcoin Price Prediction Analysis using LSTM and Linear Regression
+Problem statement: How can machine learning techniques, specifically LSTM and Linear Regression algorithms, be effectively utilised to predict Bitcoin prices amidst the high volatility and dynamic nature of the cryptocurrency market?
 
-Description: The project aims to develop a machine learning model to classify customers based on Turnover, Purchase Frequency and to constructively recommend improvement decision in managing inventory and price
+Description: This project aims to develop and evaluate a predictive model for Bitcoin prices using machine learning techniques, focusing on LSTM and Linear Regression algorithms, based on a dataset collected from the Coinbase API.
 
-Impact Results: Achieved an accuracy of more than 85% on the test result, Highlighted critical improvement in prioritising stock availability and managing price based on seasons and customer segmentation
+Impact Results: The study demonstrates that LSTM outperforms Linear Regression in forecasting Bitcoin prices, suggesting its potential efficacy in aiding investment decisions within the cryptocurrency market.
 
 Dataset size: 541909 customers'record, Complexity: Medium
 
